@@ -1,10 +1,10 @@
 [
   {
     "package": "NGCHMSupportFiles",
-    "url": "https://github.com/MD-Anderson-Bioinformatics/NGCHMSupportFiles"
+    "url": "https://github.com/marohrdanz/NGCHMSupportFiles"
   },
   {
     "package": "NGCHMDemoData",
-    "url": "https://github.com/MD-Anderson-Bioinformatics/NGCHMDemoData"
+    "url": "https://github.com/marohrdanz/NGCHMDemoData"
   }
 ]
