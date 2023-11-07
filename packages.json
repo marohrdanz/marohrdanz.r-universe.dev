@@ -6,5 +6,9 @@
   {
     "package": "NGCHMDemoData",
     "url": "https://github.com/marohrdanz/NGCHMDemoData"
+  },
+  {
+    "package": "NGCHM",
+    "url": "https://github.com/marohrdanz/NGCHM-R"
   }
 ]
