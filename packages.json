@@ -1,14 +1,14 @@
 [
   {
     "package": "NGCHMSupportFiles",
-    "url": "https://github.com/marohrdanz/NGCHMSupportFiles"
+    "url": "https://github.com/MD-Anderson-Bioinformatics/NGCHMSupportFiles"
   },
   {
     "package": "NGCHMDemoData",
-    "url": "https://github.com/marohrdanz/NGCHMDemoData"
+    "url": "https://github.com/MD-Anderson-Bioinformatics/NGCHMDemoData"
   },
   {
-    "package": "NGCHM",
-    "url": "https://github.com/marohrdanz/NGCHM-R"
+    "package": "tsvio",
+    "url": "https://github.com/MD-Anderson-Bioinformatics/tsvio"
   }
 ]
